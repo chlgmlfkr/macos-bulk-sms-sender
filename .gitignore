@@ -1,0 +1,11 @@
+sms_send.log
+*.log
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+recipients.txt
+recipients.csv
+*.numbers
+*.xlsx
